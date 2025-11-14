@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "dooood.tekkit.fixdatcamera.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "fixdatcamera.refmap.json",
+  "mixins": [],
+  "client": [
+    "FixKubeJSEventHandlerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8"
+}
